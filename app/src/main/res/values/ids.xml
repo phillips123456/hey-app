@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="e" type="id">ETNUMBER1</item>
+    <item name="etNumber1" type="id">1</item>
+    <item name="etNumber2" type="id">2</item>
+    <item name="btnAdd" type="id">ButtonAdd</item>
+    <item name="btnSub" type="id">Subtract</item>
+    <item name="tvResult" type="id">Television R</item>
+</resources>
